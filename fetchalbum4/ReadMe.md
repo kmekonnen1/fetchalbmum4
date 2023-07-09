@@ -1,4 +1,3 @@
 This is a new file In visual studio-fetchalbmu4
 
-some text 
-modified here local file
+some text
